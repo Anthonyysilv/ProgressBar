@@ -1,0 +1,17 @@
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.exe
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.deps.json
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\bin\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.Form1.resources
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.AssemblyInfo.cs
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.dll
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\refint\ProgressBar.dll
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.pdb
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\aluno\Downloads\ExemploProgressBar\ProgressBar\ProgressBar\obj\Debug\net6.0-windows\ref\ProgressBar.dll
